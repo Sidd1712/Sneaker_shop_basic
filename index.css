@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: blanchedalmond;
+    min-height: 100px;
+}
+.logo {
+    position: absolute;
+    left: 10px;
+}
+
+.nav {
+    align-self: center;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+}
+
+.link {
+    padding: 1rem;
+}
+
+.login {
+    position: absolute;
+    right: 10px;
+}
+
